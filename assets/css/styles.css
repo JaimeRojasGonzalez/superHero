@@ -1,0 +1,84 @@
+#img1 {
+    width: 70px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+#img2 {
+
+    height: 300px;
+    padding-top: 40px;
+    transition: all 300ms;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#img2:hover {
+    transform: scale(1.15);
+}
+
+img {
+
+    align-items: center;
+}
+
+header {
+    background-color: #20b2aa;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    color: white;
+    text-shadow: 4px 4px 6px blue;
+    height: 200px;
+}
+
+h1 {
+    font-size: 70px;
+
+}
+
+label {
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #707070;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px silver;
+}
+
+.card {
+
+    transition: all 300ms;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.card:hover {
+    box-shadow: 0 0.1rem 0.4rem #212529;
+    transform: scale(1.05);
+
+}
+
+
+
+#boton {
+    transition: all 300ms;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#boton:hover {
+    box-shadow: 0 0.1rem 0.4rem #212529;
+    transform: scale(1.10)
+}
+
+#superHeroInfoDos {
+
+    transition: all 300ms;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#superHeroInfoDos:hover {
+    transform: scale(1.05);
+}
